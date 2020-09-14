@@ -8,7 +8,7 @@ Use example:
 
 useCounter() // Receives defult value of 10
 
-# useFETCH
+# useFetch
 
 Use example:
 
